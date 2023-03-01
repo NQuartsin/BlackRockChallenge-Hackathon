@@ -25,5 +25,4 @@ Bot Lovelace: 24994
 Bot Turing: 20000
 
 //Bonus Challenge Task Details 
-check if there exist a bot with more than 100 inspection -> returns true(act is maloicious)/ false malicious act 
-
+check if the trading bot trades more than 100 inspection within 5 minutes -> returns true(act is maloicious)/ false(isn't malicious) 
